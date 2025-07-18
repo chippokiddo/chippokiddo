@@ -1,6 +1,8 @@
-## 📊 GitHub Stats
-
 When I have time, I like to build things.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chippokiddo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chippokiddo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=chippokiddo&show_icons=true&theme=radical&layout=compact&card_width=490" alt="chip's GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chippokiddo&layout=compact&theme=radical&card_width=490" alt="chip's Top Languages" />
+</p>
