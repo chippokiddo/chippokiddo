@@ -6,7 +6,8 @@
   </a>
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chippokiddo&show_icons=true&theme=radical&layout=compact&card_width=440" style="height: 195px;" alt="chip's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chippokiddo&layout=compact&theme=radical&card_width=340" style="height: 195px;" alt="chip's Top Languages" " />
+  <img src="https://github-readme-stats.vercel.app/api?username=chippokiddo&show_icons=true&theme=radical&layout=compact&card_width=470" alt="chip's GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chippokiddo&layout=compact&theme=radical&card_width=470" alt="chip's Top Languages" " />
 </p>
